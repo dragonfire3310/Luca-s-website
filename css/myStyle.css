@@ -77,8 +77,8 @@ h1{
 }
 
 h5{
-	clear: both
-	float: left
+	clear: both;
+	float: left;
 
 
 }
@@ -86,13 +86,11 @@ h5{
 	clear: both;
 	float: left;
 	width: 45%;
-	//border: solid 1px white;
 }
 
 .rightCol{
 	float: right;
 	width: 45%;
-	//border: solid 1px white;
 }
 
 .subHead{
